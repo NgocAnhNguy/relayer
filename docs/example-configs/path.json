@@ -1,0 +1,16 @@
+{
+    "src": {
+      "chain-id": "checkersb",
+      "client-id": "07-tendermint-439",
+      "connection-id": "connection-372"
+    },
+    "dst": {
+      "chain-id": "cosmoshub-4",
+      "client-id": "07-tendermint-3",
+      "connection-id": "connection-2"
+    },
+    "src-channel-filter": {
+      "rule": null,
+      "channel-list": []
+    }
+  }
